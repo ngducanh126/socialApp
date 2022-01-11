@@ -1,0 +1,4 @@
+side bar-> close friends
+rightbar-> online
+topbar
+feed->share + posts
